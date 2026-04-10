@@ -13,11 +13,11 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Abdurahman Ali**, widely known in the tech community as **Hakimi Ziyach**. I am a dedicated 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
+I am **Hakimi Ziyach**, widely known as **Hakimi Ziyach**. I am a dedicated 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
 
 My approach combines technical rigor with aesthetic precision, ensuring that every system I build is not only functional but also provides a world-class user experience.
 
-- 🔭 **Currently working on:** Advanced Hospital ERP Systems & Secure FinTech modules.
+- 🔭 **Live Portfolio:** [Visit My Site](https://hakimi1616.github.io/Portfolios/)
 - ⚡ **Key Philosophy:** "Clean code is not just written; it's engineered."
 - 🌍 **Goal:** To solve complex real-world problems using cutting-edge Java and Web technologies.
 
@@ -54,7 +54,7 @@ A premium E-commerce interface built for high-end tech components.
 
 ## 📈 Engineering Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=HakimiZiyach&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ziyach Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=hakimi1616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ziyach Stats" />
 </p>
 
 ---
@@ -64,7 +64,7 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 <p align="left">
   <a href="mailto:contact@ziyach.dev"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/HakimiZiyach"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/hakimi1616"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
