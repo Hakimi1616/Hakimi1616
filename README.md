@@ -59,10 +59,10 @@ A premium E-commerce interface built for high-end tech components.
 
 ---
 
-## 🤝 Contact With Me
+## 🤝 Contact With Me +251 930 54 79 01
 If you're looking for a high-quality software architect for collaboration or hire, let's talk.
 
- 🤝 Contact With Me
+ 🤝 Contact With Me +251 930 54 79 01
 
 <p align="left">
   <a href="https://github.com/hakimi1616" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
