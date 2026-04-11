@@ -1,4 +1,4 @@
-# 🌌 HAKIMI ZIYACH | Full-Stack Software Engineer Portfolio
+# 🌌 HAKIMI ZIYACH | MULU-Stack Software Engineer Portfolio
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HAKIMI%20ZIYACH&fontSize=70&animation=fadeIn" stroke="20" />
@@ -13,12 +13,12 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Hakimi Ziyach**, widely known as **Hakimi Ziyach**. I am a dedicated 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
+I am **Hakimi Ziyach**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
 
 My approach combines technical rigor with aesthetic precision, ensuring that every system I build is not only functional but also provides a world-class user experience.
 
 - 🔭 **Live Portfolio:** [Visit My Site](https://hakimi1616.github.io/Portfolios/)
-- ⚡ **Key Philosophy:** "Clean code is not just written; it's engineered."
+- ⚡ MY  MINDSET:** "Clean code is not just written; it's engineered."
 - 🌍 **Goal:** To solve complex real-world problems using cutting-edge Java and Web technologies.
 
 ---
@@ -40,29 +40,29 @@ My approach combines technical rigor with aesthetic precision, ensuring that eve
 
 ## 🌟 Featured Ecosystems
 
-### 🏥 MediChain Enterprise (ERP)
+### 🏥 HEALTH Enterprise (ERP)
 A robust Hospital Management System built with **Java GUI (Swing)**. It integrates multiple stakeholders (Doctors, Pharmacists, and Accountants) into a single synchronized workflow.
 - **Key Feature:** Real-time room booking and automated medical billing.
 - **Tech:** Java, OOP Principles, Data Sync Logic.
 
-### 💻 Ziyach HQ Hardware Store
+ 💻 Ziyach Hardware Office
 A premium E-commerce interface built for high-end tech components.
 - **Key Feature:** Modern "Glassmorphism" UI and responsive Bento-grid layout.
 - **Tech:** HTML5, Tailwind CSS, JavaScript ES6.
 
 ---
 
-## 📈 Engineering Stats
+## 📈 Developer Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hakimi1616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ziyach Stats" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Contact With Me
 If you're looking for a high-quality software architect for collaboration or hire, let's talk.
 
-## 🤝 Connect With Me
+ 🤝 Contact With Me
 
 <p align="left">
   <a href="https://github.com/hakimi1616" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -76,5 +76,5 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 <div align="center">
   <p><i>"The best way to predict the future is to invent it." - Alan Kay</i></p>
-  <p><b>Built by Hakimi Ziyach © 2026</b></p>
+  <h4><b>Built by Hakimi Ziyach © 2026</b></h4>
 </div>
