@@ -19,7 +19,7 @@ My approach combines technical rigor with aesthetic precision, ensuring that eve
 
 - 🔭 **Live Portfolio:** [Visit My Site](https://hakimi1616.github.io/Portfolios/)
 - ⚡ MY  MINDSET:** "INVISIBLE but ALWAYS INSIDE THE SYSTEM any way FEAR IS JUST A SYSTEM ERROR."
-- 🌍 **Goal:** To solve complex real-world problems but you won't see just you will feel the system change serieslly.
+- 🌍 **Goal:** To solve complex real-world problems but you won't see the process just you will feel the system change serieslly.
 
 ---
 
