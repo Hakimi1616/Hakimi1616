@@ -1,4 +1,4 @@
-# 🌌 HAKIMI ZIYACH | FUTURE ETHICAL HACKER and NOW Software engineerr  Portfolio
+# 🌌 ELNATAN WULETAW | FUTURE ETHICAL HACKER and NOW Software engineerr  Portfolio
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HAKIMI%20ZIYACH&fontSize=70&animation=fadeIn" stroke="20" />
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Hakimi Ziyach**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
+I am **Elnatan Wuletaw**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
 
 My approach combines technical rigor with aesthetic precision, ensuring that every system I build is not only functional but also provides a world-class user experience.
 
@@ -45,7 +45,7 @@ A robust Hospital Management System built with **Java GUI (Swing)**. It integrat
 - **Key Feature:** Real-time room booking and automated medical billing.
 - **Tech:** Java, OOP Principles, Data Sync Logic.
 
- 💻 HAKIMI Hardware Office
+ 💻 Elnatan Hardware Office
 A premium E-commerce interface built for high-end tech components.
 - **Key Feature:** Modern "Glassmorphism" UI and responsive Bento-grid layout.
 - **Tech:** HTML5, Tailwind CSS, JavaScript ES6.
@@ -66,7 +66,7 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 <p align="left">
   <a href="https://github.com/hakimi1616" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://t.me/@hakimi1616" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/@Elnatan1616" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://wa.me/251930547901" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
   <a href="https://instagram.com/haki_mi1122" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@hakimi5057" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
@@ -76,5 +76,5 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 <div align="center">
   <p><i>"The best way to predict the future is to invent it." - Alan Kay</i></p>
-  <h4><b>Built by Hakimi Ziyach © 2026</b></h4>
+  <h4><b>Built by Elnatan Wuletaw © 2026</b></h4>
 </div>
