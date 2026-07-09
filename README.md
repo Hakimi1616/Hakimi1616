@@ -1,4 +1,4 @@
-# 🌌 ELNATAN WULETAW | FUTURE ETHICAL HACKER and NOW Software engineerr  Portfolio
+# 🌌 ELNATAN WULETAW | FUTURE ETHICAL HACKER and NOW Software engineer Portfolio
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=HAKIMI%20ZIYACH&fontSize=70&animation=fadeIn" stroke="20" />
@@ -13,7 +13,7 @@
 ---
 
 ## 👨‍💻 About Me
-I am **Elnatan Wuletaw**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 3rd-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
+I am **Elnatan Wuletaw**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 4th-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
 
 My approach combines technical rigor with aesthetic precision, ensuring that every system I build is not only functional but also provides a world-class user experience.
 
@@ -22,10 +22,9 @@ My approach combines technical rigor with aesthetic precision, ensuring that eve
 - 🌍 **Goal:** To solve complex real-world problems but you won't see the process just you will feel the system change serieslly.
 
 ---
-
-## 🛠 Technical Stack
-
-### 🚀 Languages & Core
+ 🛠 Technical Stack
+ 
+### Languages & Core
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -59,10 +58,10 @@ A premium E-commerce interface built for high-end tech components.
 
 ---
 
-## 🤝 Contact With Me +251 930 54 79 01
+## 🤝 Contact With Me +251 969 21 64 19
 If you're looking for a high-quality software architect for collaboration or hire, let's talk.
 
- 🤝 CALL ME FOR ANY PURPOSE +251 930 54 79 01
+ 🤝 CALL ME FOR ANY PURPOSE +251 969216419
 
 <p align="left">
   <a href="https://github.com/hakimi1616" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
