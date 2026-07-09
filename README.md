@@ -11,15 +11,13 @@
 </div>
 
 ---
-
-## 👨‍💻 About Me
-I am **Elnatan Wuletaw**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 4th-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
+👨‍💻 About Me I am **Elnatan Wuletaw**, widely known as **GHOST IN THE MACHINE**. I am a FAM. of 4th-year **Software Engineering student** with a passion for architecting scalable digital ecosystems and high-performance applications.
 
 My approach combines technical rigor with aesthetic precision, ensuring that every system I build is not only functional but also provides a world-class user experience.
 
-- 🔭 **Live Portfolio:** [Visit My Site](https://hakimi1616.github.io/Portfolios/)
-- ⚡ MY  MINDSET:** "INVISIBLE but ALWAYS INSIDE THE SYSTEM any way FEAR IS JUST A SYSTEM ERROR."
-- 🌍 **Goal:** To solve complex real-world problems but you won't see the process just you will feel the system change serieslly.
+- 🔭 **Live Portfolio:** [Visit My Portfolio](https://hakimi1616.github.io/Portfolios/)
+-  MY  MINDSET:** "INVISIBLE but ALWAYS INSIDE THE SYSTEM any way FEAR IS JUST A SYSTEM ERROR."
+-  **Goal:** To solve 🌍 complex real-world problems but you won't see the process just you will feel the system change serieslly.
 
 ---
  🛠 Technical Stack
@@ -36,10 +34,9 @@ My approach combines technical rigor with aesthetic precision, ensuring that eve
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
+🌟 Featured Ecosystems
 
-## 🌟 Featured Ecosystems
-
-### 🏥 HEALTH Enterprise (ERP)
+ 🏥 Professional Developer (PD)
 A robust Hospital Management System built with **Java GUI (Swing)**. It integrates multiple stakeholders (Doctors, Pharmacists, and Accountants) into a single synchronized workflow.
 - **Key Feature:** Real-time room booking and automated medical billing.
 - **Tech:** Java, OOP Principles, Data Sync Logic.
@@ -47,18 +44,18 @@ A robust Hospital Management System built with **Java GUI (Swing)**. It integrat
  💻 Elnatan Hardware Office
 A premium E-commerce interface built for high-end tech components.
 - **Key Feature:** Modern "Glassmorphism" UI and responsive Bento-grid layout.
-- **Tech:** HTML5, Tailwind CSS, JavaScript ES6.
+- **Tech:** HTML5, Tailwind CSS, JavaScript ES6,React,Node.JS
 
 ---
 
-## 📈 Developer Stats
+ 📈 Developer Stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=hakimi1616&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Ziyach Stats" />
 </p>
 
 ---
 
-## 🤝 Contact With Me +251 969 21 64 19
+🤝 Contact With Me +251 969 21 64 19
 If you're looking for a high-quality software architect for collaboration or hire, let's talk.
 
  🤝 CALL ME FOR ANY PURPOSE +251 969216419
