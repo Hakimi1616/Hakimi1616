@@ -41,7 +41,7 @@ A robust Hospital Management System built with **Java GUI (Swing)**. It integrat
 - **Key Feature:** Real-time room booking and automated medical billing.
 - **Tech:** Java, OOP Principles, Data Sync Logic.
 
- 💻 Elnatan Hardware Office
+ 💻 Elnatan Software Office
 A premium E-commerce interface built for high-end tech components.
 - **Key Feature:** Modern "Glassmorphism" UI and responsive Bento-grid layout.
 - **Tech:** HTML5, Tailwind CSS, JavaScript ES6,React,Node.JS
