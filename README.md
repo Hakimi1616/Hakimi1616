@@ -72,5 +72,5 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 <div align="center">
   <p><i>"The best way to predict the future is to invent it." - Alan Kay</i></p>
-  <h4><b>Built by Elnatan Wuletaw © 2026</b></h4>
+  <h2><b>Built by Elnatan Wuletaw © 2026</b></h2>
 </div>
