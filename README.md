@@ -70,7 +70,7 @@ If you're looking for a high-quality software architect for collaboration or hir
 
 ---
 
-<div align="center">
+<div align="center" style="background-color:blue">
   <p><i>"The best way to predict the future is to invent it." - Alan Kay</i></p>
-  <h2"><b style="background-color:blue">Built by Elnatan Wuletaw © 2026</b></h2>
+  <h2"><b>Built by Elnatan Wuletaw © 2026</b></h2>
 </div>
